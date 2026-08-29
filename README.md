@@ -9,7 +9,7 @@ Banks need to monitor loan portfolio health — how much is being funded, how mu
 - What proportion of loans are "Good" (Fully Paid/Current) vs. "Bad" (Charged Off)?
 
 ## Dataset
-- Source: Included in this repo (`dataset/loan_data.csv`)
+- Source: Included in this repo (`dataset/financial_loan.csv`)
 - Size: ~38,576 loan records
 - Key fields: Loan ID, Funded Amount, Interest Rate, DTI, Grade, Purpose, Home Ownership, Issue Date, Loan Status
 
